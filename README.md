@@ -2,7 +2,7 @@
   <img src="./assets/banner.svg" alt="Awesome User Data Workspace and Self-Service Restore Banner" width="100%" />
 </p>
 
-# 🚀 Awesome User Data Workspace & Self-Service Restore [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+# 🚀 Awesome User Data Workspace & Self-Service Restore <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a> <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌐 **A comprehensive, SEO-optimized directory of top User Data Workspace and Self-Service Restore solutions.** Compare enterprise SaaS virtual desktop infrastructure (VDI), Desktop-as-a-Service (DaaS), cloud workspaces, endpoint protection, and open-source self-service backup platforms with instant end-user snapshot rollbacks and zero-ticket recovery.
 >
@@ -18,6 +18,8 @@
 - [📊 Feature Comparison Matrix](#-feature-comparison-matrix)
 - [🔍 Architectural Patterns & Best Practices](#-architectural-patterns--best-practices)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -118,6 +120,23 @@ When submitting a pull request, please adhere to the following standards:
 - **Stack & Open-Source License:** Specify backend runtime/language and official SPDX license identifier.
 - **Self-Service Granularity:** Detail specifically whether restore capabilities are end-user initiated, file-level, or administrator-controlled.
 - **Commit Format:** Use clear, standardized commit messages following [Conventional Commits](https://www.conventionalcommits.org/).
+
+---
+
+## 💖 Support
+
+Thank you so much for exploring this curated repository! If you find this directory helpful for your infrastructure, cloud workspaces, or disaster recovery stack, please consider supporting the project:
+
+- ⭐ **Star this repository** to boost visibility and help others discover it.
+- 🍴 **Fork the project** and contribute additional tools, benchmarks, and updates.
+- 📢 **Share with colleagues & communities** across Reddit, X/Twitter, LinkedIn, and developer channels.
+- ☕ **Buy a Coffee / Sponsor:** If you'd like to support ongoing maintenance and new curated projects, visit the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**!
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-User-Data-Workspace-Self-Service-Restore&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-User-Data-Workspace-Self-Service-Restore&type=date&legend=top-left)
 
 ---
 
